@@ -1,0 +1,10 @@
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+*/node_modules
+*/.env
+*/npm-debug.log
+*/.settings
+*/target
+*/.project
+CommunicationsServer/src/main/resources/application-dev.properties
