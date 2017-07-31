@@ -1,0 +1,22 @@
+{
+  "name": "messagesbroker",
+  "version": "1.0.0",
+  "description": "a nodejs secured mqtt broker for push messaging",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mosca":"2.2.0",
+    "dotenv": "4.0.0",
+    "messagingcommons": "file:../messagingcommons/"  
+    },
+  "keywords": [
+    "mqtt",
+    "broker",
+    "cloud",
+    "messaging"
+  ],
+  "author": "famargon",
+  "license": "Apache-2.0"
+}
